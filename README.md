@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/badge/Testing-APKs%20%7C%20Minecraft%20Servers-00FF41?style=for-the-badge&logo=matrix&logoColor=white" />
 </p>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wadbar&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&count_private=true" alt="Estatísticas de wadbar" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadbar&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41" alt="Linguagens de wadbar" height="195"/>
+</div>
 
 ###
 
