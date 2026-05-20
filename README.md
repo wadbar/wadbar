@@ -14,10 +14,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wadbar&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&count_private=true" alt="Estatísticas de wadbar" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadbar&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41" alt="Linguagens de wadbar" height="195"/>
-</div>
+### 🛠️ O que eu ando fazendo:
+
+| Recurso | Descrição |
+| :---: | :--- |
+| <img src="https://img.icons8.com/fluent/48/google-logo.png" width="28"/> | **Engenharia de Prompts:** Uso intensivo do **Google AI Studio** para automação e arquitetura de sistemas inteligentes. |
+| <img src="https://img.icons8.com/fluency/48/brain.png" width="28"/> | **IA Local (LLMs):** Execução e teste de modelos locais de IA rodando via **Ollama (Qwen Coder)**. |
+| <img src="https://img.icons8.com/fluent/48/android-os.png" width="28"/> | **Mobile Lab:** Experimentação prática, compilação, testes e modificação de pacotes de aplicativos **APK**. |
+| <img src="https://img.icons8.com/fluent/48/minecraft-sword.png" width="28"/> | **Gaming Architecture:** Triagem avançada de logs, otimização de desempenho e configuração de servidores de Minecraft. |
+
+<br>
+
 
 ###
 
