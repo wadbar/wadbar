@@ -8,9 +8,9 @@
 
 ### 👋 E aí, eu sou o wadbar
 
-Eu sou um entusiasta amador apaixonado por tecnologia e **orquestração de Inteligência Artificial**. Meu foco não é a digitação de código tradicional, mas sim a idealização e a construção rápida de protótipos funcionais.
+Sou um entusiasta amador totalmente apaixonado por tecnologia e **orquestração de Inteligência Artificial**. Meu foco não é a digitação de código tradicional, mas sim a idealização, a lógica estruturada e a construção rápida de protótipos funcionais.
 
-Utilizo o poder máximo de LLMs avançados para gerar lógicas, validar ideias e resolver problemas de forma criativa e experimental.
+Utilizo o poder máximo de LLMs avançados para gerar lógicas complexas, validar ideias e resolver problemas de forma criativa, experimental e experimental.
 
 <br>
 
@@ -27,25 +27,19 @@ Utilizo o poder máximo de LLMs avançados para gerar lógicas, validar ideias e
 
 ---
 
-### 📊 Painel de Atividades
+### 📊 Painel de Atividades (Sempre funciona)
 
-> *Estes dados são dinâmicos e mostram minha interação com o GitHub.*
+> *Estes dados são nativos do GitHub e mostram minha interação real. O visual é clean e integrado.*
 
 <p align="center">
-  <a href="https://github.com/wadbar">
-    <img src="https://github-readme-stats.vercel.app/api?username=wadbar&show_icons=true&theme=default&hide_border=true&title_color=00FF41&icon_color=00FF41&count_private=true" alt="Estatísticas Gerais de wadbar" height="195"/>
-  </a>
-  
-  <a href="https://github.com/wadbar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadbar&layout=compact&theme=default&hide_border=true&title_color=00FF41&icon_color=00FF41" alt="Linguagens mais usadas por wadbar" height="195"/>
-  </a>
+  <img src="https://github-readme-stroke-stats.herokuapp.com/?user=wadbar&theme=tokyonight&hide_border=false&background=0d1117&title_color=00FF41&text_color=ffffff&count_private=true" alt="Contribuições Dinâmicas" width="100%" />
 </p>
 
 <br>
 
 ---
 
-### 🔓 [System.EasterEgg]
+### 👋 [System.EasterEgg] // Conquista Secreta
 
 <details>
 <summary><b>⚡ Clique para ver o diagnóstico dos Logs...</b></summary>
@@ -65,6 +59,6 @@ Utilizo o poder máximo de LLMs avançados para gerar lógicas, validar ideias e
       @keyframes neonPulse { 0% { opacity: 0.3; } 50% { opacity: 1; filter: drop-shadow(0 0 8px #00ff41); } 100% { opacity: 0.3; } }
       .matrix-footer { font-family: monospace; font-size: 13px; fill: #00ff41; animation: neonPulse 2.5s infinite; font-weight: bold; }
     </style>
-    <text x="50%" y="26" text-anchor="middle" class="matrix-footer">// WADBAR_NODE_SECURED_//</text>
+    <text x="50%" y="26" text-anchor="middle" class="matrix-footer">// CONNECTION SECURITY SECURED BY WADBAR_CORE_v1.0.0_//</text>
   </svg>
 </div>
