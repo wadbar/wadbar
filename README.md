@@ -1,46 +1,67 @@
+<!-- Banner Animado no Topo -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=E%20aí,%20eu%20sou%20o%20wadsonbr!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+
 <div align="center">
-  <!-- Um GIF animado e moderno de um cérebro ou robô (pode ser trocado pelo link de qualquer GIF da internet) -->
-  <img src="https://media.giphy.com/media/qgQUggCGvnPcsE0dPt/giphy.gif" width="120" />
+  <!-- Animação de Digitação -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Entusiasta+de+Tecnologia+%26+IA;Criador+de+Protótipos;Explorador+de+Ideias+e+Soluções;Testador+de+APKs+%26+Servidores" alt="Typing SVG" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Olá,+sou+o+Wadson+Barcellos!;Entusiasta+de+Tecnologia+%26+IA;Criador+de+Protótipos+Inovadores;Explorador+de+Ideias+e+Soluções" alt="Typing SVG" />
-</h1>
+<br>
 
-<p align="center">
-  <strong>Transformando ideias em realidade com o poder da Inteligência Artificial. 🤖💡</strong>
-</p>
+<div align="center">
+  <!-- GIF Divertido Centralizado -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Robô Animado"/>
+</div>
 
 <br>
 
-### 🚀 Sobre Mim
-Sou um entusiasta e experimentador focado em resultados. Não me prendo a escrever código do zero: minha paixão é **idealizar, testar e prototipar**. Utilizo ferramentas avançadas de Inteligência Artificial para dar vida a projetos de forma rápida e inteligente.
+### 👾 Um Pouco Sobre Mim
 
-- 🧠 **Prototipagem:** Validação de ideias e construção de lógicas utilizando o **Google AI Studio** e modelos locais via **Ollama** (como o Qwen Coder).
-- 📱 **Experimentação:** Aventurando-me no desenvolvimento e teste de aplicativos (APKs) e na criação de automações genéricas para múltiplos projetos.
-- 🎮 **Arquitetura & Comunidade:** Gerenciamento, otimização e configuração avançada de servidores de Minecraft.
-- 🐧 **Meu Ambiente:** Costumo rodar e testar tudo pelo Linux Debian (WSL 2).
+Sou um entusiasta da tecnologia e um criador de ideias. Meu foco não é digitar códigos complexos do zero, mas sim **orquestrar a Inteligência Artificial para construir soluções e protótipos incríveis**. Gosto de testar, experimentar e ver as coisas funcionando na prática!
+
+*   💡 **Foco Principal:** Validação de ideias e construção de lógicas com o **Google AI Studio** e modelos locais via **Ollama** (utilizando o Qwen Coder).
+*   📱 **Laboratório:** Sempre testando e experimentando novos APKs e automações genéricas para facilitar o dia a dia.
+*   🎮 **Comunidade:** Configuração e otimização avançada de servidores de Minecraft.
+*   🐧 **Ambiente de Trabalho:** Meu quartel-general é o Linux Debian rodando no WSL 2.
 
 <br>
 
-### 🛠️ Minha Caixa de Ferramentas
+### 🧰 Minha Caixa de Ferramentas
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
   <img src="https://img.shields.io/badge/Android_APKs-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft_Servers-111111?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft-111111?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian_WSL2-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-</p>
+</div>
 
 <br>
 
-### 📈 Minha Jornada Criativa
+### 🏆 Minhas Conquistas no GitHub
 
-> *Estatísticas geradas dinamicamente:*
+> *Troféus gerados dinamicamente com base nas minhas interações:*
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/wadbar">
-    <img src="https://github-readme-stats.vercel.app/api?username=wadbar&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=10B981" alt="Estatísticas do GitHub" height="190"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=wadbar&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do wadsonbr" />
   </a>
-</p>
+</div>
+
+<br>
+
+### 📊 Radar de Atividades
+
+<div align="center">
+  <a href="https://github.com/wadbar">
+    <img src="https://github-readme-stats.vercel.app/api?username=wadbar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Estatísticas" height="170"/>
+  </a>
+</div>
+
+<br>
+
+<!-- Rodapé com outro GIF pequeno -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnPcsE0dPt/giphy.gif" width="80" />
+  <p><em>"O limite é apenas o tamanho da sua imaginação."</em></p>
+</div>
