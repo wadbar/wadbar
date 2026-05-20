@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=WADSONBR%20//%20NEURAL%20NET&fontSize=45&fontColor=00FF41&font_family=Fira_Mono" width="100%"/>
-</p>
-
 <div align="center">
   <img src="https://img.shields.io/badge/ENV-DEBIAN%20WSL2-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/CORE-GOOGLE%20AI%20STUDIO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -12,9 +8,9 @@
 
 ---
 
-### 👾  [System.Profile] // Quem é wadsonbr?
+### 👾 [System.Profile] // Quem é wadbar?
 
-Não sou um desenvolvedor focado em sintaxe tradicional ou digitação de código puro. Atuo como um **AI Builder e Orquestrador de Sistemas**. Minha paixão é conceber a lógica, usar modelos avançados de Inteligência Artificial para gerar protótipos rápidos e testar soluções em tempo recorde.
+Atuo como um **AI Builder e Orquestrador de Sistemas**. Minha paixão é conceber a lógica, usar modelos avançados de Inteligência Artificial para gerar protótipos rápidos e testar soluções em tempo recorde.
 
 * 🤖 **AI Ideation:** Engenharia de prompts e automação estruturada utilizando o **Google AI Studio**.
 * 🧠 **Modelos Locais:** Execução e refinamento de fluxos lógicos via **Ollama**, utilizando o potencial do **Qwen Coder**.
@@ -25,16 +21,14 @@ Não sou um desenvolvedor focado em sintaxe tradicional ou digitação de códig
 
 ---
 
-### 🗂️  [System.Projects] // Repositórios em Destaque
-
-> *Projetos modulares e ecossistemas em desenvolvimento ativo:*
+### 📊 [System.Analytics] // Painel de Atividades
 
 <p align="center">
-  <a href="https://github.com/wadsonbr/Code-Pool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wadsonbr&repo=Code-Pool&theme=terminal&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&hide_border=false" alt="Code-Pool" height="120"/>
+  <a href="https://github.com/wadbar">
+    <img src="https://github-readme-stats.vercel.app/api?username=wadbar&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&hide_border=false" alt="Estatísticas Gerais" height="195"/>
   </a>
-  <a href="https://github.com/wadsonbr/wadsonbr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wadsonbr&repo=wadsonbr&theme=terminal&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&hide_border=false" alt="Profile Repo" height="120"/>
+  <a href="https://github.com/wadbar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadbar&layout=compact&theme=dark&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&hide_border=false" alt="Tecnologias Mais Usadas" height="195"/>
   </a>
 </p>
 
@@ -42,22 +36,7 @@ Não sou um desenvolvedor focado em sintaxe tradicional ou digitação de códig
 
 ---
 
-### 📊  [System.Analytics] // Painel de Atividades
-
-<p align="center">
-  <a href="https://github.com/wadsonbr">
-    <img src="https://github-readme-stats.vercel.app/api?username=wadsonbr&show_icons=true&theme=terminal&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&hide_border=false&count_private=true" alt="Estatísticas Gerais" height="195"/>
-  </a>
-  <a href="https://github.com/wadsonbr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadsonbr&layout=compact&theme=terminal&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&hide_border=false" alt="Tecnologias Mais Usadas" height="195"/>
-  </a>
-</p>
-
-<br>
-
----
-
-### 🎮  [System.EasterEgg] // Conquista Secreta
+### 🎮 [System.EasterEgg] // Conquista Secreta
 
 <details>
 <summary><b>⚡ CLIQUE PARA CONECTAR AO TERMINAL SECRETO...</b></summary>
@@ -76,6 +55,9 @@ Não sou um desenvolvedor focado em sintaxe tradicional ou digitação de códig
 
 <br>
 
+---
+
+### 🗓️ [System.Contributions]
 <p align="center">
-  <img src="https://github-readme-snake.herokuapp.com/github-contribution-grid-snake.svg?username=wadsonbr&color_dot=161b22&color_snake=00ff41&color_border=0d1117" alt="Snake Contribution" width="100%"/>
+  <img src="https://github-readme-stroke-stats.herokuapp.com/?user=wadbar&theme=dark&hide_border=false&background=0d1117&title_color=00FF41&text_color=ffffff" alt="Contribuições Dinâmicas" width="100%" />
 </p>
