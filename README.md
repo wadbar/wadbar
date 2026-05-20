@@ -14,14 +14,14 @@
 
 ###
 
-### 🛠️ O que eu ando fazendo:
+### 🛠️ What I'm working on:
 
 | Recurso | Descrição |
 | :---: | :--- |
-| <img src="https://img.icons8.com/fluent/48/google-logo.png" width="28"/> | **Engenharia de Prompts:** Uso intensivo do **Google AI Studio** para automação e arquitetura de sistemas inteligentes. |
-| <img src="https://img.icons8.com/fluency/48/brain.png" width="28"/> | **IA Local (LLMs):** Execução e teste de modelos locais de IA rodando via **Ollama (Qwen Coder)**. |
-| <img src="https://img.icons8.com/fluent/48/android-os.png" width="28"/> | **Mobile Lab:** Experimentação prática, compilação, testes e modificação de pacotes de aplicativos **APK**. |
-| <img src="https://img.icons8.com/fluent/48/minecraft-sword.png" width="28"/> | **Gaming Architecture:** Triagem avançada de logs, otimização de desempenho e configuração de servidores de Minecraft. |
+| <img src="https://img.icons8.com/fluent/48/google-logo.png" width="28"/> | **Prompt Engineering: Intensive use of Google AI Studio for automation and intelligent system architecture. |
+| <img src="https://img.icons8.com/fluency/48/brain.png" width="28"/> | **Local AI (LLMs): Execution and testing of local AI models running via Ollama (Qwen Coder). |
+| <img src="https://img.icons8.com/fluent/48/android-os.png" width="28"/> | **Mobile Lab: Hands-on experimentation, compiling, testing, and modifying APK application packages. |
+| <img src="https://img.icons8.com/fluent/48/minecraft-sword.png" width="28"/> | **Gaming Architecture: Advanced log triage, performance optimization, and Minecraft server configuration. |
 
 <br>
 
