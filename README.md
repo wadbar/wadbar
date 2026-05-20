@@ -1,32 +1,29 @@
-<!-- Banner Animado no Topo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=E%20aí,%20eu%20sou%20o%20wadsonbr!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=250&section=header&text=Bem-vindo%20à%20Matrix,%20wadsonbr!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&font_family=Fira_Mono" width="100%"/>
 
 <div align="center">
-  <!-- Animação de Digitação -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Entusiasta+de+Tecnologia+%26+IA;Criador+de+Protótipos;Explorador+de+Ideias+e+Soluções;Testador+de+APKs+%26+Servidores" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=500&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=AI+Symphony+Conductor;Prototipagem+Ágil;Explorador+de+Ideias;Testador+de+APKs" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- GIF Divertido Centralizado -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Robô Animado"/>
+  <img src="https://media.giphy.com/media/Vp3YntKq17W+o2w7mJ/giphy.gif" width="120" alt="Chuva de Código Matrix"/>
 </div>
 
 <br>
 
-### 👾 Um Pouco Sobre Mim
+### 👾 <samp>matrix.about.me</samp>
 
-Sou um entusiasta da tecnologia e um criador de ideias. Meu foco não é digitar códigos complexos do zero, mas sim **orquestrar a Inteligência Artificial para construir soluções e protótipos incríveis**. Gosto de testar, experimentar e ver as coisas funcionando na prática!
+Sou um entusiasta do "AI-driven development". Não sou um programador tradicional, mas sim um **arquiteto de ideias e protótipos**, utilizando a orquestração de Inteligência Artificial para dar vida a projetos de forma rápida e experimental.
 
-*   💡 **Foco Principal:** Validação de ideias e construção de lógicas com o **Google AI Studio** e modelos locais via **Ollama** (utilizando o Qwen Coder).
-*   📱 **Laboratório:** Sempre testando e experimentando novos APKs e automações genéricas para facilitar o dia a dia.
-*   🎮 **Comunidade:** Configuração e otimização avançada de servidores de Minecraft.
-*   🐧 **Ambiente de Trabalho:** Meu quartel-general é o Linux Debian rodando no WSL 2.
+* 💡 **Foco:** Validação de lógicas e construção de protótipos com **Google AI Studio** e modelos locais via **Ollama** (usando o Qwen Coder).
+* 📱 **Exploração:** Teste de APKs e automações genéricas para simplificar múltiplos fluxos.
+* 🎮 **Comunidade:** Configuração e otimização avançada de servidores de Minecraft.
+* 🐧 **Quartel-General:** Linux Debian via WSL 2.
 
 <br>
 
-### 🧰 Minha Caixa de Ferramentas
+### 🧰 <samp>matrix.toolkit</samp>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -38,30 +35,33 @@ Sou um entusiasta da tecnologia e um criador de ideias. Meu foco não é digitar
 
 <br>
 
-### 🏆 Minhas Conquistas no GitHub
+### 📈 <samp>matrix.progress</samp> (Estatísticas Dinâmicas)
 
-> *Troféus gerados dinamicamente com base nas minhas interações:*
+> *Estes dados são estimativas dinâmicas baseadas no histórico público do meu perfil.*
 
 <div align="center">
-  <a href="https://github.com/wadbar">
-    <img src="https://github-profile-trophy.vercel.app/?username=wadbar&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do wadsonbr" />
+  <a href="https://github.com/wadsonbr">
+    <img src="https://github-readme-stats.vercel.app/api?username=wadsonbr&show_icons=true&theme=terminal&hide_border=true&bg_color=0D1117&title_color=00FF41" alt="Estatísticas" height="170"/>
   </a>
 </div>
 
 <br>
 
-### 📊 Radar de Atividades
+### 🎮 <samp>matrix.mini-game</samp>
 
-<div align="center">
-  <a href="https://github.com/wadbar">
-    <img src="https://github-readme-stats.vercel.app/api?username=wadbar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Estatísticas" height="170"/>
-  </a>
-</div>
+Para a sua ousada solicitação de um elemento "jogável", aqui está um quebra-cabeça de código AI-gerado. Encontre o erro sutil e mostre que sua mente é mais afiada que o algoritmo!
 
-<br>
+```bash
+# matrix.cipher_v1.0.js
 
-<!-- Rodapé com outro GIF pequeno -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPcsE0dPt/giphy.gif" width="80" />
-  <p><em>"O limite é apenas o tamanho da sua imaginação."</em></p>
-</div>
+function processMatrix(input_data) {
+  let processed_string = "";
+  for (let i = 0; i < input_data.length; i--) { # <- Erro sutil de AI Builder!
+    processed_string += input_data[i].toUpperCase();
+  }
+  return processed_string;
+}
+
+# Desafio: Qual é o erro sutil de lógica gerado pela IA no loop acima?
+# Dica: O loop nunca termina. Como você corrigiria?
+# Publique sua correção nos comentários!
