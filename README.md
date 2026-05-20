@@ -25,7 +25,11 @@
 
 <br>
 
-
+###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wadbar&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadbar&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41" />
+</p>
 ###
 
 <div align="center">
