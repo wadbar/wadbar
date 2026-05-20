@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=250&section=header&text=Bem-vindo%20à%20Matrix,%20wadsonbr!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&font_family=Fira_Mono" width="100%"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=250&section=header&text=Bem-vindo%20à%20Matrix,%20wadsonbr!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&font_family=Fira_Mono" width="100%"/>
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=500&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=AI+Symphony+Conductor;Prototipagem+Ágil;Explorador+de+Ideias;Testador+de+APKs" alt="Typing SVG" />
@@ -35,9 +38,9 @@ Sou um entusiasta do "AI-driven development". Não sou um programador tradiciona
 
 <br>
 
-### 📈 <samp>matrix.progress</samp> (Estatísticas Dinâmicas)
+### 📈 <samp>matrix.progress</samp>
 
-> *Estes dados são estimativas dinâmicas baseadas no histórico público do meu perfil.*
+> *Estes dados são estimativas dinâmicas baseadas no histórico do meu perfil.*
 
 <div align="center">
   <a href="https://github.com/wadsonbr">
@@ -49,19 +52,16 @@ Sou um entusiasta do "AI-driven development". Não sou um programador tradiciona
 
 ### 🎮 <samp>matrix.mini-game</samp>
 
-Para a sua ousada solicitação de um elemento "jogável", aqui está um quebra-cabeça de código AI-gerado. Encontre o erro sutil e mostre que sua mente é mais afiada que o algoritmo!
+Para a sua ousada solicitação de um elemento "jogável", aqui está um quebra-cabeça de código gerado por IA. Encontre o erro sutil e mostre que sua mente é mais afiada que o algoritmo!
 
-```bash
-# matrix.cipher_v1.0.js
+```javascript
+// matrix.cipher_v1.0.js
 
 function processMatrix(input_data) {
   let processed_string = "";
-  for (let i = 0; i < input_data.length; i--) { # <- Erro sutil de AI Builder!
+  // Desafio: O que acontece com o contador "i" na linha abaixo?
+  for (let i = 0; i < input_data.length; i--) { 
     processed_string += input_data[i].toUpperCase();
   }
   return processed_string;
 }
-
-# Desafio: Qual é o erro sutil de lógica gerado pela IA no loop acima?
-# Dica: O loop nunca termina. Como você corrigiria?
-# Publique sua correção nos comentários!
