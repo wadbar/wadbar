@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wadbar/wadbar/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/wadbar/wadbar/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wadbar&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&count_private=true" alt="Estatísticas Gerais de wadbar" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadbar&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41" alt="Linguagens mais usadas por wadbar" height="195"/>
 </div>
 
 ###
