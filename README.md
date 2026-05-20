@@ -32,5 +32,5 @@
 </div>
 
 <p align="center">
-  <font size="2" color="#66c0f4"><i>// INITIALIZATION COMPLETED: WADBAR_NODE_SECURED_ //</i></font>
+  <font size="2" color="#66c0f4"><i>// WADBAR //</i></font>
 </p>
