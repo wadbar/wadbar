@@ -6,10 +6,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wadbar&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&count_private=true" alt="Estatísticas Gerais de wadbar" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadbar&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41" alt="Linguagens mais usadas por wadbar" height="195"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Environment-Linux%20Debian%20(WSL2)-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Tools-Google%20AI%20Studio%20%7C%20Ollama-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-APKs%20%7C%20Minecraft%20Servers-00FF41?style=for-the-badge&logo=matrix&logoColor=white" />
+</p>
+
 
 ###
 
